@@ -1,0 +1,22 @@
+{
+  "_resourceType": "scene",
+  "id": "26fff956-3b0d-474a-be8d-f609ad151ef0",
+  "_index": 4,
+  "name": "Room 2",
+  "backgroundId": "1e5f9d6a-bdbc-43e6-8c34-22f5bb5dea05",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_5",
+  "x": 448,
+  "y": 792,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

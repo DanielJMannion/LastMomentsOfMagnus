@@ -1,13 +1,13 @@
 {
   "_resourceType": "background",
-  "id": "e686a943-be5d-4e61-a8c2-4fb88df0e1b5",
-  "name": "titlescreen",
-  "symbol": "bg_titlescreen",
+  "id": "1e5f9d6a-bdbc-43e6-8c34-22f5bb5dea05",
+  "name": "placeholder",
+  "symbol": "bg_placeholder",
   "width": 20,
   "height": 18,
   "imageWidth": 160,
   "imageHeight": 144,
-  "filename": "titlescreen.png",
+  "filename": "placeholder.png",
   "tileColors": "",
   "autoColor": false
 }
