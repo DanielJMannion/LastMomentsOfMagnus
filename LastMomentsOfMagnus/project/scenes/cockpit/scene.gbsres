@@ -1,0 +1,22 @@
+{
+  "_resourceType": "scene",
+  "id": "353741b8-9301-4c5f-a35a-c1188f1916e0",
+  "_index": 6,
+  "name": "Cockpit",
+  "backgroundId": "1e5f9d6a-bdbc-43e6-8c34-22f5bb5dea05",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_7",
+  "x": 688,
+  "y": 1056,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

@@ -1,0 +1,22 @@
+{
+  "_resourceType": "scene",
+  "id": "013bfdf5-a9b2-433a-bc75-009621ba0e6c",
+  "_index": 3,
+  "name": "Room 1",
+  "backgroundId": "1e5f9d6a-bdbc-43e6-8c34-22f5bb5dea05",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_4",
+  "x": 448,
+  "y": 608,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}
