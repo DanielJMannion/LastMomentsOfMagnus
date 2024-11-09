@@ -1,0 +1,28 @@
+{
+  "_resourceType": "script",
+  "id": "b220a95a-0c27-4927-8210-c448d4e9f9dc",
+  "name": "Door Interact",
+  "description": "Script for all doors that have to be interacted with to open.",
+  "variables": {},
+  "actors": {},
+  "symbol": "script_2",
+  "script": [
+    {
+      "command": "EVENT_SWITCH_SCENE",
+      "args": {
+        "sceneId": "ad8f9275-02b4-45de-b280-a616bae6e8e7",
+        "x": {
+          "type": "number",
+          "value": 0
+        },
+        "y": {
+          "type": "number",
+          "value": 0
+        },
+        "direction": "",
+        "fadeSpeed": "2"
+      },
+      "id": "b62d298f-2a6b-49e8-9f3c-43d81a3e7166"
+    }
+  ]
+}

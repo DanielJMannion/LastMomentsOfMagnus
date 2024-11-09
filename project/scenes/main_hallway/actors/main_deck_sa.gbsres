@@ -1,0 +1,43 @@
+{
+  "_resourceType": "actor",
+  "id": "0df645e6-47ea-41e9-ae29-605f43345484",
+  "name": "Main Deck Sa",
+  "frame": 0,
+  "animate": false,
+  "spriteSheetId": "581d34d0-9591-4e6e-a609-1d94f203b0cd",
+  "prefabId": "",
+  "direction": "down",
+  "moveSpeed": 1,
+  "animSpeed": 15,
+  "paletteId": "",
+  "isPinned": false,
+  "persistent": false,
+  "collisionGroup": "",
+  "prefabScriptOverrides": {},
+  "symbol": "actor_1",
+  "script": [
+    {
+      "command": "EVENT_CALL_CUSTOM_EVENT",
+      "args": {
+        "customEventId": "da57c692-05bc-428e-a625-0e77695bdf42"
+      },
+      "id": "8bad4bc4-406c-43b6-82c3-14aba892d4b5"
+    }
+  ],
+  "startScript": [
+    {
+      "command": "EVENT_ACTOR_HIDE",
+      "args": {
+        "actorId": "$self$"
+      },
+      "id": "53f7c290-7ff6-439c-af02-371c542164f0"
+    }
+  ],
+  "updateScript": [],
+  "hit1Script": [],
+  "hit2Script": [],
+  "hit3Script": [],
+  "x": 13,
+  "y": 1,
+  "_index": 1
+}

@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "5c129957-e0d6-477c-85f4-0e3c403d8c47",
+  "name": "MainDeckHall",
+  "symbol": "bg_maindeckhall",
+  "width": 20,
+  "height": 46,
+  "imageWidth": 160,
+  "imageHeight": 368,
+  "filename": "MainDeckHall.png",
+  "tileColors": ""
+}
