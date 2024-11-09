@@ -1,0 +1,22 @@
+{
+  "_resourceType": "scene",
+  "id": "1b7d9a27-030e-4340-94ad-b53dba08abe8",
+  "_index": 19,
+  "name": "Top Deck",
+  "backgroundId": "5c129957-e0d6-477c-85f4-0e3c403d8c47",
+  "tilesetId": "",
+  "width": 20,
+  "height": 46,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_20",
+  "x": 664,
+  "y": 632,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

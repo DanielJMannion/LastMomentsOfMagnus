@@ -1,0 +1,22 @@
+{
+  "_resourceType": "scene",
+  "id": "0a88b2e9-48d3-4f4c-8aed-96d133389589",
+  "_index": 11,
+  "name": "Lower Deck",
+  "backgroundId": "5c129957-e0d6-477c-85f4-0e3c403d8c47",
+  "tilesetId": "",
+  "width": 20,
+  "height": 46,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_0",
+  "x": 2280,
+  "y": 592,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

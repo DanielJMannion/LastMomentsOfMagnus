@@ -1,7 +1,7 @@
 {
   "_resourceType": "scene",
   "id": "013bfdf5-a9b2-433a-bc75-009621ba0e6c",
-  "_index": 3,
+  "_index": 2,
   "name": "Room 1",
   "backgroundId": "1e5f9d6a-bdbc-43e6-8c34-22f5bb5dea05",
   "tilesetId": "",
@@ -14,7 +14,7 @@
   "autoFadeSpeed": 1,
   "symbol": "scene_4",
   "x": 448,
-  "y": 608,
+  "y": 616,
   "script": [],
   "playerHit1Script": [],
   "playerHit2Script": [],

@@ -47,7 +47,8 @@
     {
       "command": "EVENT_ACTOR_HIDE",
       "args": {
-        "actorId": "$self$"
+        "actorId": "$self$",
+        "__collapse": true
       },
       "id": "b460cab8-6194-4aaa-851e-8a7d4915bd66"
     }

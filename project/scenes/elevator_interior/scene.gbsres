@@ -1,0 +1,22 @@
+{
+  "_resourceType": "scene",
+  "id": "7efa60c9-0c06-4f78-baa7-475632496f8f",
+  "_index": 10,
+  "name": "Elevator Interior",
+  "backgroundId": "1e5f9d6a-bdbc-43e6-8c34-22f5bb5dea05",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "POINTNCLICK",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "00168+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_12",
+  "x": 1048,
+  "y": 88,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

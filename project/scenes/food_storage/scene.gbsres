@@ -1,0 +1,22 @@
+{
+  "_resourceType": "scene",
+  "id": "46104f9e-cea6-4bae-91b2-6145b7ac03f6",
+  "_index": 16,
+  "name": "Food Storage",
+  "backgroundId": "1e5f9d6a-bdbc-43e6-8c34-22f5bb5dea05",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_17",
+  "x": 2080,
+  "y": 1000,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

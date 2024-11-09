@@ -1,0 +1,22 @@
+{
+  "_resourceType": "scene",
+  "id": "7a211636-72a8-466f-82c9-ef79f16ac415",
+  "_index": 13,
+  "name": "Male Bunks",
+  "backgroundId": "1e5f9d6a-bdbc-43e6-8c34-22f5bb5dea05",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_14",
+  "x": 2048,
+  "y": 656,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

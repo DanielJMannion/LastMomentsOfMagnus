@@ -1,0 +1,22 @@
+{
+  "_resourceType": "scene",
+  "id": "a9d90973-e2c1-4e03-89c4-a23bf1c61c30",
+  "_index": 4,
+  "name": "Captain's Quarters",
+  "backgroundId": "1e5f9d6a-bdbc-43e6-8c34-22f5bb5dea05",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_6",
+  "x": 1192,
+  "y": 944,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

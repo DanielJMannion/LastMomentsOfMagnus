@@ -1,0 +1,22 @@
+{
+  "_resourceType": "scene",
+  "id": "1e1d57bb-b1f9-4569-8ccd-27b17814afed",
+  "_index": 26,
+  "name": "Cargo Hold",
+  "backgroundId": "5c129957-e0d6-477c-85f4-0e3c403d8c47",
+  "tilesetId": "",
+  "width": 20,
+  "height": 46,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_27",
+  "x": 3128,
+  "y": 576,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

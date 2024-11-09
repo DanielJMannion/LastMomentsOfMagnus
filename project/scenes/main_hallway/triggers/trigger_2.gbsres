@@ -16,11 +16,11 @@
         "sceneId": "ad8f9275-02b4-45de-b280-a616bae6e8e7",
         "x": {
           "type": "number",
-          "value": 0
+          "value": 14
         },
         "y": {
           "type": "number",
-          "value": 0
+          "value": 15
         },
         "direction": "",
         "fadeSpeed": "2"

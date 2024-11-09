@@ -8,5 +8,6 @@
   "imageWidth": 160,
   "imageHeight": 368,
   "filename": "MainDeckHall.png",
-  "tileColors": ""
+  "tileColors": "",
+  "autoColor": false
 }
